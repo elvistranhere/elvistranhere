@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Elvis (AKA Totar) </h1>
-<h3 align="center">I Want A Job!</h3>
-
-
-- 🔭 I’m currently working on [Fanta Create]([https://github.com/totargaming/fanta-create](https://github.com/totargaming/fanta-create))
 
 - 🌱 I’m currently learning **Fullstack Development, Software Engineering**
 

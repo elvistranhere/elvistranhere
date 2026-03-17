@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvis Tran</h1>
-FDE @ Lyra & building everything I can think of...
+My professional works are hidden, but you can explore my side gigs here!
 
 📫 **Email:** elvistranhere@gmail.com  
 🏠 **Website:** https://elvis-tran.is-a.dev
